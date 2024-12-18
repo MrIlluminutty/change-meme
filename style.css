@@ -1,0 +1,31 @@
+#main{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%
+}
+
+h1 {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    border: solid white;
+    border-width: 0px 0px 5px 0px;
+    border-radius: 5px;
+    width: 100%;
+  }
+
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+
+p{
+    margin: 0px;
+    font-family: "Iceberg", serif;
+    font-weight: 400;
+    font-style: normal;
+}
